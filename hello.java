@@ -1,1 +1,5 @@
-// in futre we will write some code//
+class hello {
+    public static void main(String [] args){
+     System.out.println("welcome");
+    }
+}
